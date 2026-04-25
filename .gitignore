@@ -5,3 +5,7 @@ docs/
 *~
 *#
 /.coverage
+.vs/
+*.pyproj
+*.suo
+*.slnx
